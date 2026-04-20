@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SUPABASE_URL</key>
+	<string>https://fosfmkwwbupftcgepjky.supabase.co</string>
+	<key>SUPABASE_ANON_KEY</key>
+	<string>sb_publishable_U3mvXLGBGhgtGk3OnKYvUg_SzoMsn8e</string>
+	<key>SERVER_BASE_URL</key>
+	<string>http://localhost:4800/api</string>
+</dict>
+</plist>

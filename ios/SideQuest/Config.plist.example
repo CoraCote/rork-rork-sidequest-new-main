@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SUPABASE_URL</key>
+	<string>https://your-project.supabase.co</string>
+	<key>SUPABASE_ANON_KEY</key>
+	<string>your-anon-key-here</string>
+	<key>SERVER_BASE_URL</key>
+	<string>https://your-server.fly.dev</string>
+
+	<key>TICKETMASTER_API_KEY</key>
+	<string>your-ticketmaster-api-key</string>
+	<key>TICKETMASTER_API_SECRET</key>
+	<string>your-ticketmaster-api-secret</string>
+	<key>TICKETMASTER_API_KEYS</key>
+	<string>key1,key2,key3,key4</string>
+
+	<key>EVENTBRITE_PRIVATE_TOKEN</key>
+	<string>your-eventbrite-token</string>
+
+	<key>APIFY_CLIENT_ID</key>
+	<string>your-apify-client-id</string>
+	<key>APIFY_API_TOKEN</key>
+	<string>your-apify-api-token</string>
+</dict>
+</plist>
